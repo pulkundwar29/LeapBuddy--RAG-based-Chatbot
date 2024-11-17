@@ -16,7 +16,7 @@ Then, run the development server:
 ```bash
 npm run dev
 ```
-Then, acquire API keys for the following purposes:
+Then, acquire API keys for the following purposes (store them in a .env file in the main repository):
 ```bash
 # Clerk Auth:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
