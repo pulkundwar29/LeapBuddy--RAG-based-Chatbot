@@ -16,10 +16,6 @@ First, install dependencies:
 npm i --legacy-peer-deps
 ```
 
-Then, run the development server:
-```bash
-npm run dev
-```
 Then, acquire API keys for the following purposes (store them in a .env file in the main repository):
 ```bash
 # Clerk Auth:
@@ -45,6 +41,11 @@ PINECONE_API_KEY
 
 # Gemini: 
 GEMINI_API_KEY
+```
+
+Then, run the development server:
+```bash
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
