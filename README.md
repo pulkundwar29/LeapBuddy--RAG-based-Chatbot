@@ -22,7 +22,7 @@ First, ensure you have Node.js installed. You can download it from [Node.js offi
   brew install node
   ```
 - **Linux**:  
-  Install Node.js using Homebrew:
+  Install Node.js using terminal commands:
   ```bash
   sudo apt update
   sudo apt install -y nodejs npm
