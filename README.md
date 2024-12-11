@@ -10,7 +10,25 @@ This is a Retrieval-Augmented Generation (RAG) based Chat Assistant, which uses 
 
 ## Getting Started
 
-First, install dependencies:
+## Getting Started
+
+First, ensure you have Node.js installed. You can download it from [Node.js official website](https://nodejs.org/), or install it via a package manager:
+- **Windows**:  
+  Download the Node.js installer from the [official Node.js website](https://nodejs.org/). Run the installer, follow the setup steps, and ensure you check the option to add Node.js to your system PATH during installation.
+
+- **macOS**:  
+  Install Node.js using Homebrew:
+  ```bash
+  brew install node
+  ```
+- **Linux**:  
+  Install Node.js using Homebrew:
+  ```bash
+  sudo apt update
+  sudo apt install -y nodejs npm
+  ```
+
+Install dependencies:
 
 ```bash
 npm i --legacy-peer-deps
