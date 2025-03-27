@@ -8,7 +8,7 @@ This is a Retrieval-Augmented Generation (RAG) based Chat Assistant, which uses 
 
 
 
-## Getting Started
+
 
 ## Getting Started
 
